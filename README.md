@@ -13,7 +13,6 @@ The datasets can download from [here](https://drive.google.com/drive/folders/1o4
 - `word2vec`
 - `README.md`
 
-The dataset description can see in [there](data/README.md)
 
 ## Create conda env
 
